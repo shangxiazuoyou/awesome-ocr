@@ -1,2 +1,7 @@
-# awesome-ocr
-收集OCR轮子
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) -Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) -OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) -Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) -OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [surya](https://github.com/VikParuchuri/surya) -OCR, layout analysis, reading order, table recognition in 90+ languages
+- [RapidOCR](https://github.com/RapidAI/RapidOCR) -📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
+- [Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) -A powerful OCR (Optical Character Recognition) package that uses state-of-the-art vision language models through Ollama to extract text from images. Available both as a Python package and a Streamlit web application.
