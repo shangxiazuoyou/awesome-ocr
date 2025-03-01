@@ -5,3 +5,4 @@
 - [surya](https://github.com/VikParuchuri/surya) -OCR, layout analysis, reading order, table recognition in 90+ languages
 - [RapidOCR](https://github.com/RapidAI/RapidOCR) -📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
 - [Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) -A powerful OCR (Optical Character Recognition) package that uses state-of-the-art vision language models through Ollama to extract text from images. Available both as a Python package and a Streamlit web application.
+- [kreuzberg](https://github.com/Goldziher/kreuzberg) -A text extraction library supporting PDFs, images, office documents and more
